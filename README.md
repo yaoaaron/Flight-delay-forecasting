@@ -11,7 +11,7 @@ The Federal Aviation Administration (FAA) found the annual cost of domestic flig
 **This study adopts several time series methods, analyzes and predicts the flight delays using airline on-time performance data at the Chicago O’Hare International Airport (ORD).** <br>
 The model that achieves the highest accuracy power is selected for final consideration.
 
-The data for this analysis is taken from the Airline On-Time Performance Data from the [Bureau of Transportation Statistics (BTS)](https://www.transtats.bts.gov/ONTIME/)
+The data for this analysis is taken from the [Bureau of Transportation Statistics (BTS)](https://www.transtats.bts.gov/ONTIME/)
 
 ## Result
 * The MAPE of the model when given a set of new data is 8%.
