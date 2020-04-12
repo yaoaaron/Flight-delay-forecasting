@@ -17,6 +17,6 @@ The data for this analysis is taken from the Airline On-Time Performance Data fr
 * The MAPE of the model when given a set of new data is 8%.
 
 ## Sources
-1. [Guy, A. (2010). Flight delays cost $32.9 billion, passengers foot half the bill. Retrieved July
+1. Guy, A. (2010). Flight delays cost $32.9 billion, passengers foot half the bill. Retrieved July
 29, 2019, from Berkeley News website:
-https://news.berkeley.edu/2010/10/18/flight_delays/]
+https://news.berkeley.edu/2010/10/18/flight_delays/
